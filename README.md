@@ -26,7 +26,7 @@ Use the following API endpoints to create, read, update and delete data from you
 /api/tags/\
 /api/tags/:id
 
-![Screenshot]()
+![Screenshot](https://i.imgur.com/W35pBkc.jpg)
 
 ### [Video]()
 
