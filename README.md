@@ -19,11 +19,11 @@ Clone the repository to your local machine. In command prompt, navigate into the
 
 Use the following API endpoints to create, read, update and delete data from your database:
 
-/api/products/
-/api/products/:id
-/api/categories/
-/api/categories/:id
-/api/tags/
+/api/products/\
+/api/products/:id\
+/api/categories/\
+/api/categories/:id\
+/api/tags/\
 /api/tags/:id
 
 ![Screenshot]()
